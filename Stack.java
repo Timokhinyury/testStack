@@ -40,7 +40,7 @@ public class Stack<Item> {
 			if(item.equals("q")) end = true;
 		}while(!end);
 		System.out.println("1111");
-		System.out.println("1111");
+		
 	}
 
 }
