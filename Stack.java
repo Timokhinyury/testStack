@@ -39,7 +39,7 @@ public class Stack<Item> {
 			System.out.println(s.size());
 			if(item.equals("q")) end = true;
 		}while(!end);
-		
+		System.out.println("1111");
 	}
 
 }
